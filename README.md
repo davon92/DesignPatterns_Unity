@@ -34,4 +34,13 @@ Each pattern folder contains:
 ## 🚧 In Progress
 
 Track progress via [GitHub Issues](https://github.com/davon92/DesignPatterns_Unity/issues)
+## 🧑‍💻 About the Developer
 
+Hi, I’m Davon Allen, a gameplay engineer with a focus on building high-quality, scalable gameplay systems.  
+My goal is to join a AAA studio as a Mid - Senior Gameplay Programmer and contribute to systems that drive player creativity, fun, and depth.
+
+- [LinkedIn](https://www.linkedin.com/in/davonaallen/)
+- [Portfolio](https://www.davonallen.com/)
+- [Vimeo](https://vimeo.com/davonaallen)
+
+---
